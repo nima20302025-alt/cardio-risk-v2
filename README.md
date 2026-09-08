@@ -5,7 +5,7 @@ cardiovascular disease (CVD) from routine clinical measurements
 (age, blood pressure, cholesterol, BMI, lifestyle factors), served through
 an interactive Streamlit interface and deployed on Railway.
 
-**🔗 Live demo:** _add your Railway URL here after deploying_
+**🔗 Live demo:** _[(https://cardio-risk-v2-production.up.railway.app/)]
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.38-red)
